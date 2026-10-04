@@ -1,2 +1,2 @@
-# sectorfile-ttzp
+# TTZP PiarcoFIR
 TTZP PiarcoFIR
