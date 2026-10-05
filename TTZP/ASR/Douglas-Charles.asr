@@ -1,0 +1,116 @@
+DisplayTypeName:TDPD SMR
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+SECTORFILE:C:\Program Files (x86)\EuroScope\TTZP-PiarcoFIR_20251002185955-251001-0001\TTZP-TTZP_20251002185955-251001-0001.sct
+SECTORTITLE:TTZP-TTZP_20251002185955-251001-0001.sct
+
+ARTCC low boundary:TDPD_ATZ:
+
+Fixes:TDPD:name
+Fixes:TDPD:symbol
+
+Free Text:TDPD TDPD\A:freetext
+Free Text:TDPD TDPD\B:freetext
+Free Text:TDPD TDPD\C:freetext
+
+Geo:GEO:
+Geo:TDPD Groundlayout Douglas Charles:
+Geo:TTZP Landmark Natural Earth 10m Coastlines:
+Geo:TTZP Landmark Piarco Coastlines:
+
+Regions:TDPD Apron:polygon
+Regions:TDPD Taxiways:polygon
+Runways:TDPD 09-27:centerline
+Runways:TDPD 09-27:extended centerline 1
+Runways:TDPD 09-27:extended centerline 1 left base
+Runways:TDPD 09-27:extended centerline 1 left ticks
+Runways:TDPD 09-27:extended centerline 1 left vectoring
+Runways:TDPD 09-27:extended centerline 1 right base
+Runways:TDPD 09-27:extended centerline 1 right ticks
+Runways:TDPD 09-27:extended centerline 1 right vectoring
+Runways:TDPD 09-27:extended centerline 2
+Runways:TDPD 09-27:extended centerline 2 left base
+Runways:TDPD 09-27:extended centerline 2 left ticks
+Runways:TDPD 09-27:extended centerline 2 left vectoring
+Runways:TDPD 09-27:extended centerline 2 right base
+Runways:TDPD 09-27:extended centerline 2 right ticks
+Runways:TDPD 09-27:extended centerline 2 right vectoring
+Runways:TDPD 09-27:name
+
+VORs:ANU:frequency
+VORs:ANU:name
+VORs:ANU:symbol
+VORs:BGI:frequency
+VORs:BGI:name
+VORs:BGI:symbol
+VORs:BNA:frequency
+VORs:BNA:name
+VORs:BNA:symbol
+VORs:BNE:frequency
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:CAI:frequency
+VORs:CAI:name
+VORs:CAI:symbol
+VORs:COY:frequency
+VORs:COY:name
+VORs:COY:symbol
+VORs:CUM:frequency
+VORs:CUM:name
+VORs:CUM:symbol
+VORs:DOM:frequency
+VORs:DOM:name
+VORs:DOM:symbol
+VORs:FOF:frequency
+VORs:FOF:name
+VORs:FOF:symbol
+VORs:GND:frequency
+VORs:GND:name
+VORs:GND:symbol
+VORs:MTA:frequency
+VORs:MTA:name
+VORs:MTA:symbol
+VORs:MUN:frequency
+VORs:MUN:name
+VORs:MUN:symbol
+VORs:PJM:frequency
+VORs:PJM:name
+VORs:PJM:symbol
+VORs:POS:frequency
+VORs:POS:name
+VORs:POS:symbol
+VORs:PPR:frequency
+VORs:PPR:name
+VORs:PPR:symbol
+VORs:SKB:frequency
+VORs:SKB:name
+VORs:SKB:symbol
+VORs:SOM:frequency
+VORs:SOM:name
+VORs:SOM:symbol
+VORs:STT:frequency
+VORs:STT:name
+VORs:STT:symbol
+VORs:SV:frequency
+VORs:SV:name
+VORs:SV:symbol
+
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.00000
+TAGFAMILY:VATCAR
+
+WINDOWAREA:15.5300:-61.3100:15.5400:-61.3000
+
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Airport:TDPD
