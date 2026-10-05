@@ -1,0 +1,15 @@
+ARR
+m_Visible:1
+m_X:1435
+m_Y:24
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:0:0:1::::0:0.0
+m_Column:TYP:4:0:16:7:0:1::::0:0.0
+m_Column:ADEP:4:0:61:7:0:1::::0:0.0
+m_Column:ETA:5:0:50:0:0:0::::0:0.0
+m_Column:RWY:3:0:47:19:0:0::::0:0.0
+m_Column:RMK:7:0:19:29:0:1::::0:0.0
+END

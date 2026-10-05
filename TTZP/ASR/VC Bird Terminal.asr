@@ -1,0 +1,399 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:TAPA_TMA:
+ARTCC low boundary:TAPA_CTR:
+ARTCC low boundary:TKPK_ATZ:
+ARTCC low boundary:TKPK_CTR:
+ARTCC low boundary:TKPN_ATZ:
+ARTCC low boundary:TRPG_ATZ:
+Fixes:AMENA:name
+Fixes:AMENA:symbol
+Fixes:AMTTO:name
+Fixes:AMTTO:symbol
+Fixes:ANASU:name
+Fixes:ANASU:symbol
+Fixes:BEVAD:name
+Fixes:BEVAD:symbol
+Fixes:BIMBO:name
+Fixes:BIMBO:symbol
+Fixes:BOMET:name
+Fixes:BOMET:symbol
+Fixes:BOPAR:name
+Fixes:BOPAR:symbol
+Fixes:DUPET:name
+Fixes:DUPET:symbol
+Fixes:DUSUL:name
+Fixes:DUSUL:symbol
+Fixes:EBLUK:name
+Fixes:EBLUK:symbol
+Fixes:ELOPO:name
+Fixes:ELOPO:symbol
+Fixes:EMALI:name
+Fixes:EMALI:symbol
+Fixes:EMETA:name
+Fixes:EMETA:symbol
+Fixes:ENEMI:name
+Fixes:ENEMI:symbol
+Fixes:EPVOS:name
+Fixes:EPVOS:symbol
+Fixes:GABAR:name
+Fixes:GABAR:symbol
+Fixes:GABSA:name
+Fixes:GABSA:symbol
+Fixes:GADES:name
+Fixes:GADES:symbol
+Fixes:GORET:name
+Fixes:GORET:symbol
+Fixes:IKNIG:name
+Fixes:IKNIG:symbol
+Fixes:IMOTA:name
+Fixes:IMOTA:symbol
+Fixes:IMUSU:name
+Fixes:IMUSU:symbol
+Fixes:ITRUS:name
+Fixes:ITRUS:symbol
+Fixes:KASKI:name
+Fixes:KASKI:symbol
+Fixes:KEBOR:name
+Fixes:KEBOR:symbol
+Fixes:LAMKN:name
+Fixes:LAMKN:symbol
+Fixes:LIDOK:name
+Fixes:LIDOK:symbol
+Fixes:LOMDO:name
+Fixes:LOMDO:symbol
+Fixes:MEDUS:name
+Fixes:MEDUS:symbol
+Fixes:MODUX:name
+Fixes:MODUX:symbol
+Fixes:NAKAL:name
+Fixes:NAKAL:symbol
+Fixes:OMONO:name
+Fixes:OMONO:symbol
+Fixes:PURID:name
+Fixes:PURID:symbol
+Fixes:SATAR:name
+Fixes:SATAR:symbol
+Fixes:TABOX:name
+Fixes:TABOX:symbol
+Fixes:UDGEL:name
+Fixes:UDGEL:symbol
+Fixes:ZPATA:name
+Fixes:ZPATA:symbol
+Free Text:TAPA TAPA\1:freetext
+Free Text:TAPA TAPA\10:freetext
+Free Text:TAPA TAPA\11:freetext
+Free Text:TAPA TAPA\12:freetext
+Free Text:TAPA TAPA\14:freetext
+Free Text:TAPA TAPA\2:freetext
+Free Text:TAPA TAPA\3:freetext
+Free Text:TAPA TAPA\4:freetext
+Free Text:TAPA TAPA\5:freetext
+Free Text:TAPA TAPA\6:freetext
+Free Text:TAPA TAPA\7:freetext
+Free Text:TAPA TAPA\8:freetext
+Free Text:TAPA TAPA\9:freetext
+Free Text:TAPA TAPA\A:freetext
+Free Text:TAPA TAPA\A:freetext
+Free Text:TAPA TAPA\B:freetext
+Free Text:TAPA TAPA\C:freetext
+Free Text:TAPA TAPA\D:freetext
+Free Text:TAPA TAPA\E:freetext
+Free Text:TKPK TKPK\1A:freetext
+Free Text:TKPK TKPK\1B:freetext
+Free Text:TKPK TKPK\1C:freetext
+Free Text:TKPK TKPK\1D:freetext
+Free Text:TKPK TKPK\1E:freetext
+Free Text:TKPK TKPK\1F:freetext
+Free Text:TKPK TKPK\1G:freetext
+Free Text:TKPK TKPK\2A:freetext
+Free Text:TKPK TKPK\2B:freetext
+Free Text:TKPK TKPK\3:freetext
+Free Text:TKPK TKPK\4:freetext
+Free Text:TKPK TKPK\5:freetext
+Free Text:TKPK TKPK\6:freetext
+Free Text:TKPK TKPK\7:freetext
+Free Text:TKPK TKPK\8:freetext
+Free Text:TKPK TKPK\9:freetext
+Free Text:TKPK TKPK\A:freetext
+Free Text:TKPK TKPK\B:freetext
+Free Text:TKPK TKPK\C:freetext
+Geo:GEO:
+Geo:TAPA Groundlayout V.C. Bird:
+Geo:TKPK Groundlayout Robert L. Bradshaw:
+Geo:TTZP Landmark Natural Earth 10m Coastlines:
+Geo:TTZP Landmark Piarco Coastlines:
+Low airways:A300:line
+Low airways:A300:name
+Low airways:A312:line
+Low airways:A312:name
+Low airways:A324:line
+Low airways:A324:name
+Low airways:A511:line
+Low airways:A511:name
+Low airways:A517:line
+Low airways:A517:name
+Low airways:A550:line
+Low airways:A550:name
+Low airways:A551:line
+Low airways:A551:name
+Low airways:A552:line
+Low airways:A552:name
+Low airways:A555:line
+Low airways:A555:name
+Low airways:A561:line
+Low airways:A561:name
+Low airways:A562:line
+Low airways:A562:name
+Low airways:A563:line
+Low airways:A563:name
+Low airways:A632:line
+Low airways:A632:name
+Low airways:A638:line
+Low airways:A638:name
+Low airways:B520:line
+Low airways:B520:name
+Low airways:G443:line
+Low airways:G443:name
+Low airways:G449:line
+Low airways:G449:name
+Low airways:G633:line
+Low airways:G633:name
+Low airways:G642:line
+Low airways:G642:name
+Low airways:G678:line
+Low airways:G678:name
+Low airways:L329:line
+Low airways:L329:name
+Low airways:L375:line
+Low airways:L375:name
+Low airways:L435:line
+Low airways:L435:name
+Low airways:L451:line
+Low airways:L451:name
+Low airways:L452:line
+Low airways:L452:name
+Low airways:L454:line
+Low airways:L454:name
+Low airways:L459:line
+Low airways:L459:name
+Low airways:L460:line
+Low airways:L460:name
+Low airways:L461:line
+Low airways:L461:name
+Low airways:L462:line
+Low airways:L462:name
+Low airways:L467:line
+Low airways:L467:name
+Low airways:L576:line
+Low airways:L576:name
+Low airways:L577:line
+Low airways:L577:name
+Low airways:L776:line
+Low airways:L776:name
+Low airways:M525:line
+Low airways:M525:name
+Low airways:M576:line
+Low airways:M576:name
+Low airways:M597:line
+Low airways:M597:name
+Low airways:R508:line
+Low airways:R508:name
+Low airways:R515:line
+Low airways:R515:name
+Low airways:R750:line
+Low airways:R750:name
+Low airways:R760:line
+Low airways:R760:name
+Low airways:R888:line
+Low airways:R888:name
+Low airways:R893:line
+Low airways:R893:name
+Low airways:RD2:line
+Low airways:RD2:name
+Low airways:RD3:line
+Low airways:RD3:name
+Low airways:RD4:line
+Low airways:RD4:name
+Low airways:RTE2:line
+Low airways:RTE2:name
+Low airways:RTE4:line
+Low airways:RTE4:name
+Low airways:W10:line
+Low airways:W10:name
+Low airways:W12:line
+Low airways:W12:name
+Low airways:W12A:line
+Low airways:W12A:name
+Low airways:W12B:line
+Low airways:W12B:name
+Low airways:W14:line
+Low airways:W14:name
+Low airways:W16:line
+Low airways:W16:name
+Low airways:W19:line
+Low airways:W19:name
+Low airways:W2:line
+Low airways:W2:name
+Low airways:W20:line
+Low airways:W20:name
+Low airways:W27:line
+Low airways:W27:name
+Low airways:W4:line
+Low airways:W4:name
+Low airways:Y280:line
+Low airways:Y280:name
+Low airways:Y355:line
+Low airways:Y355:name
+Regions:TAPA V.C. Bird Groundlayo:polygon
+Regions:TKPK Robert L. Bradshaw:polygon
+Runways:TAPA 07-25:extended centerline 1
+Runways:TAPA 07-25:extended centerline 1 left base
+Runways:TAPA 07-25:extended centerline 1 left ticks
+Runways:TAPA 07-25:extended centerline 1 left vectoring
+Runways:TAPA 07-25:extended centerline 1 right base
+Runways:TAPA 07-25:extended centerline 1 right ticks
+Runways:TAPA 07-25:extended centerline 1 right vectoring
+Runways:TAPA 07-25:extended centerline 2
+Runways:TAPA 07-25:extended centerline 2 left base
+Runways:TAPA 07-25:extended centerline 2 left ticks
+Runways:TAPA 07-25:extended centerline 2 left vectoring
+Runways:TAPA 07-25:extended centerline 2 right base
+Runways:TAPA 07-25:extended centerline 2 right ticks
+Runways:TAPA 07-25:extended centerline 2 right vectoring
+Runways:TAPH 10-28:centerline
+Runways:TAPH 10-28:extended centerline 1
+Runways:TAPH 10-28:extended centerline 1 left base
+Runways:TAPH 10-28:extended centerline 1 left ticks
+Runways:TAPH 10-28:extended centerline 1 left vectoring
+Runways:TAPH 10-28:extended centerline 1 right base
+Runways:TAPH 10-28:extended centerline 1 right ticks
+Runways:TAPH 10-28:extended centerline 1 right vectoring
+Runways:TAPH 10-28:extended centerline 2
+Runways:TAPH 10-28:extended centerline 2 left base
+Runways:TAPH 10-28:extended centerline 2 left ticks
+Runways:TAPH 10-28:extended centerline 2 left vectoring
+Runways:TAPH 10-28:extended centerline 2 right base
+Runways:TAPH 10-28:extended centerline 2 right ticks
+Runways:TAPH 10-28:extended centerline 2 right vectoring
+Runways:TAPH 10-28:name
+Runways:TKPK 07-25:extended centerline 1
+Runways:TKPK 07-25:extended centerline 1 left base
+Runways:TKPK 07-25:extended centerline 1 left ticks
+Runways:TKPK 07-25:extended centerline 1 left vectoring
+Runways:TKPK 07-25:extended centerline 1 right base
+Runways:TKPK 07-25:extended centerline 1 right ticks
+Runways:TKPK 07-25:extended centerline 1 right vectoring
+Runways:TKPK 07-25:extended centerline 2
+Runways:TKPK 07-25:extended centerline 2 left base
+Runways:TKPK 07-25:extended centerline 2 left ticks
+Runways:TKPK 07-25:extended centerline 2 left vectoring
+Runways:TKPK 07-25:extended centerline 2 right base
+Runways:TKPK 07-25:extended centerline 2 right ticks
+Runways:TKPK 07-25:extended centerline 2 right vectoring
+Runways:TKPN 10-28:centerline
+Runways:TKPN 10-28:extended centerline 1
+Runways:TKPN 10-28:extended centerline 1 left base
+Runways:TKPN 10-28:extended centerline 1 left ticks
+Runways:TKPN 10-28:extended centerline 1 left vectoring
+Runways:TKPN 10-28:extended centerline 1 right base
+Runways:TKPN 10-28:extended centerline 1 right ticks
+Runways:TKPN 10-28:extended centerline 1 right vectoring
+Runways:TKPN 10-28:extended centerline 2
+Runways:TKPN 10-28:extended centerline 2 left base
+Runways:TKPN 10-28:extended centerline 2 left ticks
+Runways:TKPN 10-28:extended centerline 2 left vectoring
+Runways:TKPN 10-28:extended centerline 2 right base
+Runways:TKPN 10-28:extended centerline 2 right ticks
+Runways:TKPN 10-28:extended centerline 2 right vectoring
+Runways:TKPN 10-28:name
+Runways:TRPG 10-28:centerline
+Runways:TRPG 10-28:extended centerline 1
+Runways:TRPG 10-28:extended centerline 1 left base
+Runways:TRPG 10-28:extended centerline 1 left ticks
+Runways:TRPG 10-28:extended centerline 1 left vectoring
+Runways:TRPG 10-28:extended centerline 1 right base
+Runways:TRPG 10-28:extended centerline 1 right ticks
+Runways:TRPG 10-28:extended centerline 1 right vectoring
+Runways:TRPG 10-28:extended centerline 2
+Runways:TRPG 10-28:extended centerline 2 left base
+Runways:TRPG 10-28:extended centerline 2 left ticks
+Runways:TRPG 10-28:extended centerline 2 left vectoring
+Runways:TRPG 10-28:extended centerline 2 right base
+Runways:TRPG 10-28:extended centerline 2 right ticks
+Runways:TRPG 10-28:extended centerline 2 right vectoring
+Runways:TRPG 10-28:name
+VORs:ANU:frequency
+VORs:ANU:name
+VORs:ANU:symbol
+VORs:BGI:frequency
+VORs:BGI:name
+VORs:BGI:symbol
+VORs:BNA:frequency
+VORs:BNA:name
+VORs:BNA:symbol
+VORs:BNE:frequency
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:CAI:frequency
+VORs:CAI:name
+VORs:CAI:symbol
+VORs:COY:frequency
+VORs:COY:name
+VORs:COY:symbol
+VORs:CUM:frequency
+VORs:CUM:name
+VORs:CUM:symbol
+VORs:DOM:frequency
+VORs:DOM:name
+VORs:DOM:symbol
+VORs:FOF:frequency
+VORs:FOF:name
+VORs:FOF:symbol
+VORs:GND:frequency
+VORs:GND:name
+VORs:GND:symbol
+VORs:MTA:frequency
+VORs:MTA:name
+VORs:MTA:symbol
+VORs:MUN:frequency
+VORs:MUN:name
+VORs:MUN:symbol
+VORs:PJM:frequency
+VORs:PJM:name
+VORs:PJM:symbol
+VORs:POS:frequency
+VORs:POS:name
+VORs:POS:symbol
+VORs:PPR:frequency
+VORs:PPR:name
+VORs:PPR:symbol
+VORs:SKB:frequency
+VORs:SKB:name
+VORs:SKB:symbol
+VORs:SOM:frequency
+VORs:SOM:name
+VORs:SOM:symbol
+VORs:STT:frequency
+VORs:STT:name
+VORs:STT:symbol
+VORs:SV:frequency
+VORs:SV:name
+VORs:SV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATCAR
+WINDOWAREA:16.178591:-64.095116:18.298270:-60.045350
