@@ -10,8 +10,6 @@ ARTCC low boundary:TDPD_ATZ:
 ARTCC low boundary:TFFR_CTR:
 Fixes:ADVUR:name
 Fixes:ADVUR:symbol
-Fixes:ANSE-À-LA-BARQUE:name
-Fixes:ANSE-À-LA-BARQUE:symbol
 Fixes:AVSET:name
 Fixes:AVSET:symbol
 Fixes:BIMBO:name
@@ -42,8 +40,6 @@ Fixes:KASKI:name
 Fixes:KASKI:symbol
 Fixes:KATIM:name
 Fixes:KATIM:symbol
-Fixes:KEDAK:name
-Fixes:KEDAK:symbol
 Fixes:LE-MOULE:name
 Fixes:LE-MOULE:symbol
 Fixes:LIDOS:name
@@ -52,8 +48,6 @@ Fixes:MEDUS:name
 Fixes:MEDUS:symbol
 Fixes:MIVAS:name
 Fixes:MIVAS:symbol
-Fixes:MUNSI:name
-Fixes:MUNSI:symbol
 Fixes:PORT-LOUIS:name
 Fixes:PORT-LOUIS:symbol
 Fixes:SOUTH-EAST:name
@@ -67,187 +61,16 @@ Fixes:VIEUX-BOURG:symbol
 Fixes:VOLAB:name
 Fixes:VOLAB:symbol
 Free Text:SCT2\2000:freetext
-Free Text:SCT2\2000:freetext
 Free Text:SCT2\2500:freetext
-Free Text:SCT2\3000:freetext
-Free Text:SCT2\3000:freetext
 Free Text:SCT2\3600:freetext
-Free Text:SCT2\6000:freetext
-Free Text:SCT2\6000:freetext
-Free Text:SCT2\7000:freetext
 Free Text:SCT2\7000:freetext
 Free Text:SCT2\FL065:freetext
 Free Text:SCT2\FL100:freetext
 Free Text:SCT2\FL110:freetext
 Free Text:SCT2\FL150:freetext
-Free Text:TFFR TFFR\0A:freetext
-Free Text:TFFR TFFR\0B:freetext
-Free Text:TFFR TFFR\0C:freetext
-Free Text:TFFR TFFR\0D:freetext
-Free Text:TFFR TFFR\1:freetext
-Free Text:TFFR TFFR\10:freetext
-Free Text:TFFR TFFR\11:freetext
-Free Text:TFFR TFFR\12:freetext
-Free Text:TFFR TFFR\14:freetext
-Free Text:TFFR TFFR\15:freetext
-Free Text:TFFR TFFR\16:freetext
-Free Text:TFFR TFFR\17:freetext
-Free Text:TFFR TFFR\18:freetext
-Free Text:TFFR TFFR\19:freetext
-Free Text:TFFR TFFR\2:freetext
-Free Text:TFFR TFFR\20:freetext
-Free Text:TFFR TFFR\3:freetext
-Free Text:TFFR TFFR\4:freetext
-Free Text:TFFR TFFR\5:freetext
-Free Text:TFFR TFFR\6:freetext
-Free Text:TFFR TFFR\7:freetext
-Free Text:TFFR TFFR\8:freetext
-Free Text:TFFR TFFR\9:freetext
-Free Text:TFFR TFFR\B:freetext
-Free Text:TFFR TFFR\C:freetext
-Free Text:TFFR TFFR\D:freetext
-Free Text:TFFR TFFR\E:freetext
-Free Text:TFFR TFFR\F:freetext
-Free Text:TFFR TFFR\LIGHT AVIATION APRON:freetext
-Free Text:TFFR TFFR\M:freetext
-Free Text:TFFR TFFR\Q:freetext
-Free Text:TFFR TFFR\R:freetext
-Free Text:TFFR TFFR\S2:freetext
-Free Text:TFFR TFFR\S3:freetext
-Free Text:TFFR TFFR\S6:freetext
-Free Text:TFFR TFFR\S7:freetext
-Free Text:TFFR TFFR\S8:freetext
-Free Text:TFFR TFFR\S9:freetext
-Free Text:TFFR TFFR\W:freetext
-Free Text:TFFR TFFR\W1:freetext
-Free Text:TFFR TFFR\W2:freetext
 Geo:GEO:
-Geo:TFFR Groundlayout Pointe-a-Pitre:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
-Low airways:A300:line
-Low airways:A300:name
-Low airways:A312:line
-Low airways:A312:name
-Low airways:A324:line
-Low airways:A324:name
-Low airways:A511:line
-Low airways:A511:name
-Low airways:A517:line
-Low airways:A517:name
-Low airways:A550:line
-Low airways:A550:name
-Low airways:A551:line
-Low airways:A551:name
-Low airways:A552:line
-Low airways:A552:name
-Low airways:A555:line
-Low airways:A555:name
-Low airways:A561:line
-Low airways:A561:name
-Low airways:A562:line
-Low airways:A562:name
-Low airways:A563:line
-Low airways:A563:name
-Low airways:A632:line
-Low airways:A632:name
-Low airways:A638:line
-Low airways:A638:name
-Low airways:B520:line
-Low airways:B520:name
-Low airways:G443:line
-Low airways:G443:name
-Low airways:G449:line
-Low airways:G449:name
-Low airways:G633:line
-Low airways:G633:name
-Low airways:G642:line
-Low airways:G642:name
-Low airways:G678:line
-Low airways:G678:name
-Low airways:L329:line
-Low airways:L329:name
-Low airways:L375:line
-Low airways:L375:name
-Low airways:L435:line
-Low airways:L435:name
-Low airways:L451:line
-Low airways:L451:name
-Low airways:L452:line
-Low airways:L452:name
-Low airways:L454:line
-Low airways:L454:name
-Low airways:L459:line
-Low airways:L459:name
-Low airways:L460:line
-Low airways:L460:name
-Low airways:L461:line
-Low airways:L461:name
-Low airways:L462:line
-Low airways:L462:name
-Low airways:L467:line
-Low airways:L467:name
-Low airways:L576:line
-Low airways:L576:name
-Low airways:L577:line
-Low airways:L577:name
-Low airways:L776:line
-Low airways:L776:name
-Low airways:M525:line
-Low airways:M525:name
-Low airways:M576:line
-Low airways:M576:name
-Low airways:M597:line
-Low airways:M597:name
-Low airways:R508:line
-Low airways:R508:name
-Low airways:R515:line
-Low airways:R515:name
-Low airways:R750:line
-Low airways:R750:name
-Low airways:R760:line
-Low airways:R760:name
-Low airways:R888:line
-Low airways:R888:name
-Low airways:R893:line
-Low airways:R893:name
-Low airways:RD2:line
-Low airways:RD2:name
-Low airways:RD3:line
-Low airways:RD3:name
-Low airways:RD4:line
-Low airways:RD4:name
-Low airways:RTE2:line
-Low airways:RTE2:name
-Low airways:RTE4:line
-Low airways:RTE4:name
-Low airways:W10:line
-Low airways:W10:name
-Low airways:W12:line
-Low airways:W12:name
-Low airways:W12A:line
-Low airways:W12A:name
-Low airways:W12B:line
-Low airways:W12B:name
-Low airways:W14:line
-Low airways:W14:name
-Low airways:W16:line
-Low airways:W16:name
-Low airways:W19:line
-Low airways:W19:name
-Low airways:W2:line
-Low airways:W2:name
-Low airways:W20:line
-Low airways:W20:name
-Low airways:W27:line
-Low airways:W27:name
-Low airways:W4:line
-Low airways:W4:name
-Low airways:Y280:line
-Low airways:Y280:name
-Low airways:Y355:line
-Low airways:Y355:name
-Regions:TFFR Pointe-a-Pitre:polygon
 Runways:TDCF 01-19:centerline
 Runways:TDCF 01-19:extended centerline 1
 Runways:TDCF 01-19:extended centerline 1 left base
@@ -263,7 +86,6 @@ Runways:TDCF 01-19:extended centerline 2 left vectoring
 Runways:TDCF 01-19:extended centerline 2 right base
 Runways:TDCF 01-19:extended centerline 2 right ticks
 Runways:TDCF 01-19:extended centerline 2 right vectoring
-Runways:TDCF 01-19:name
 Runways:TDPD 09-27:centerline
 Runways:TDPD 09-27:extended centerline 1
 Runways:TDPD 09-27:extended centerline 1 left base
@@ -279,7 +101,6 @@ Runways:TDPD 09-27:extended centerline 2 left vectoring
 Runways:TDPD 09-27:extended centerline 2 right base
 Runways:TDPD 09-27:extended centerline 2 right ticks
 Runways:TDPD 09-27:extended centerline 2 right vectoring
-Runways:TDPD 09-27:name
 Runways:TFFA 09-27:centerline
 Runways:TFFA 09-27:extended centerline 1
 Runways:TFFA 09-27:extended centerline 1 left base
@@ -295,7 +116,6 @@ Runways:TFFA 09-27:extended centerline 2 left vectoring
 Runways:TFFA 09-27:extended centerline 2 right base
 Runways:TFFA 09-27:extended centerline 2 right ticks
 Runways:TFFA 09-27:extended centerline 2 right vectoring
-Runways:TFFA 09-27:name
 Runways:TFFB 14-32:centerline
 Runways:TFFB 14-32:extended centerline 1
 Runways:TFFB 14-32:extended centerline 1 left base
@@ -311,7 +131,6 @@ Runways:TFFB 14-32:extended centerline 2 left vectoring
 Runways:TFFB 14-32:extended centerline 2 right base
 Runways:TFFB 14-32:extended centerline 2 right ticks
 Runways:TFFB 14-32:extended centerline 2 right vectoring
-Runways:TFFB 14-32:name
 Runways:TFFC 11-29:centerline
 Runways:TFFC 11-29:extended centerline 1
 Runways:TFFC 11-29:extended centerline 1 left base
@@ -327,7 +146,6 @@ Runways:TFFC 11-29:extended centerline 2 left vectoring
 Runways:TFFC 11-29:extended centerline 2 right base
 Runways:TFFC 11-29:extended centerline 2 right ticks
 Runways:TFFC 11-29:extended centerline 2 right vectoring
-Runways:TFFC 11-29:name
 Runways:TFFM 09-27:centerline
 Runways:TFFM 09-27:extended centerline 1
 Runways:TFFM 09-27:extended centerline 1 left base
@@ -343,7 +161,6 @@ Runways:TFFM 09-27:extended centerline 2 left vectoring
 Runways:TFFM 09-27:extended centerline 2 right base
 Runways:TFFM 09-27:extended centerline 2 right ticks
 Runways:TFFM 09-27:extended centerline 2 right vectoring
-Runways:TFFM 09-27:name
 Runways:TFFR 12-30:extended centerline 1
 Runways:TFFR 12-30:extended centerline 1 left base
 Runways:TFFR 12-30:extended centerline 1 left ticks
@@ -373,7 +190,6 @@ Runways:TFFS 09-27:extended centerline 2 left vectoring
 Runways:TFFS 09-27:extended centerline 2 right base
 Runways:TFFS 09-27:extended centerline 2 right ticks
 Runways:TFFS 09-27:extended centerline 2 right vectoring
-Runways:TFFS 09-27:name
 VORs:ANU:frequency
 VORs:ANU:name
 VORs:ANU:symbol
@@ -432,16 +248,16 @@ VORs:SV:frequency
 VORs:SV:name
 VORs:SV:symbol
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:-2
 SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
-DISABLEZOOMING:0
+DISABLEZOOMING:1
 DisplayRotation:0.00000
 TAGFAMILY:VATCAR
-WINDOWAREA:14.468772:-64.715987:17.780769:-58.388231
+WINDOWAREA:14.762230:-64.191105:17.520354:-59.128900

@@ -1,11 +1,9 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 ARTCC low boundary:TLPC_ATZ:
-ARTCC low boundary:TLPL_ATZ:
-ARTCC low boundary:TLPL_CTR:
 Fixes:BISNO:name
 Fixes:BISNO:symbol
 Fixes:DAMOV:name
@@ -42,39 +40,19 @@ Fixes:UMENU:name
 Fixes:UMENU:symbol
 Fixes:UMIGO:name
 Fixes:UMIGO:symbol
+Free Text:TLPC TLPC\1:freetext
+Free Text:TLPC TLPC\2:freetext
+Free Text:TLPC TLPC\3:freetext
+Free Text:TLPC TLPC\4:freetext
+Free Text:TLPC TLPC\A:freetext
+Free Text:TLPC TLPC\B:freetext
+Free Text:TLPC TLPC\C:freetext
+Free Text:TLPC TLPC\D:freetext
 Geo:GEO:
+Geo:TLPC Groundlayout George Charles:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
-Runways:TLPC 09-27:centerline
-Runways:TLPC 09-27:extended centerline 1
-Runways:TLPC 09-27:extended centerline 1 left base
-Runways:TLPC 09-27:extended centerline 1 left ticks
-Runways:TLPC 09-27:extended centerline 1 left vectoring
-Runways:TLPC 09-27:extended centerline 1 right base
-Runways:TLPC 09-27:extended centerline 1 right ticks
-Runways:TLPC 09-27:extended centerline 1 right vectoring
-Runways:TLPC 09-27:extended centerline 2
-Runways:TLPC 09-27:extended centerline 2 left base
-Runways:TLPC 09-27:extended centerline 2 left ticks
-Runways:TLPC 09-27:extended centerline 2 left vectoring
-Runways:TLPC 09-27:extended centerline 2 right base
-Runways:TLPC 09-27:extended centerline 2 right ticks
-Runways:TLPC 09-27:extended centerline 2 right vectoring
-Runways:TLPL 10-28:centerline
-Runways:TLPL 10-28:extended centerline 1
-Runways:TLPL 10-28:extended centerline 1 left base
-Runways:TLPL 10-28:extended centerline 1 left ticks
-Runways:TLPL 10-28:extended centerline 1 left vectoring
-Runways:TLPL 10-28:extended centerline 1 right base
-Runways:TLPL 10-28:extended centerline 1 right ticks
-Runways:TLPL 10-28:extended centerline 1 right vectoring
-Runways:TLPL 10-28:extended centerline 2
-Runways:TLPL 10-28:extended centerline 2 left base
-Runways:TLPL 10-28:extended centerline 2 left ticks
-Runways:TLPL 10-28:extended centerline 2 left vectoring
-Runways:TLPL 10-28:extended centerline 2 right base
-Runways:TLPL 10-28:extended centerline 2 right ticks
-Runways:TLPL 10-28:extended centerline 2 right vectoring
+Regions:TLPC TLPC:polygon
 VORs:ANU:frequency
 VORs:ANU:name
 VORs:ANU:symbol
@@ -141,8 +119,9 @@ SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
-DISABLEPANNING:0
+DISABLEPANNING:1
 DISABLEZOOMING:1
-DisplayRotation:0.00000
+DisplayRotation:15.00000
 TAGFAMILY:VATCAR
-WINDOWAREA:13.229798:-62.121759:14.372777:-60.023959
+WINDOWAREA:14.014252:-61.005566:14.027430:-60.981380
+PLUGIN:vSMR:Airport:TLPC

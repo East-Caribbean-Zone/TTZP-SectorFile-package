@@ -1,5 +1,5 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
@@ -79,9 +79,33 @@ Free Text:SCT2\2000:freetext
 Free Text:SCT2\3000:freetext
 Free Text:SCT2\6000:freetext
 Free Text:SCT2\7000:freetext
+Free Text:TFFF TFFF\14:freetext
+Free Text:TFFF TFFF\15:freetext
+Free Text:TFFF TFFF\2:freetext
+Free Text:TFFF TFFF\3:freetext
+Free Text:TFFF TFFF\4:freetext
+Free Text:TFFF TFFF\5:freetext
+Free Text:TFFF TFFF\6:freetext
+Free Text:TFFF TFFF\7:freetext
+Free Text:TFFF TFFF\8:freetext
+Free Text:TFFF TFFF\9:freetext
+Free Text:TFFF TFFF\91:freetext
+Free Text:TFFF TFFF\92:freetext
+Free Text:TFFF TFFF\93:freetext
+Free Text:TFFF TFFF\A:freetext
+Free Text:TFFF TFFF\B:freetext
+Free Text:TFFF TFFF\C:freetext
+Free Text:TFFF TFFF\D:freetext
+Free Text:TFFF TFFF\GENERAL AVIATION:freetext
+Free Text:TFFF TFFF\L:freetext
+Free Text:TFFF TFFF\M:freetext
+Free Text:TFFF TFFF\MILITARY:freetext
+Free Text:TFFF TFFF\T:freetext
 Geo:GEO:
+Geo:TFFF Groundlayout Martinique:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
+Regions:TFFF Martinique:polygon
 Runways:TDCF 01-19:centerline
 Runways:TDCF 01-19:extended centerline 1
 Runways:TDCF 01-19:extended centerline 1 left base
@@ -207,8 +231,9 @@ SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
-DISABLEPANNING:0
+DISABLEPANNING:1
 DISABLEZOOMING:1
-DisplayRotation:0.00000
+DisplayRotation:10.00000
 TAGFAMILY:VATCAR
-WINDOWAREA:13.679908:-63.297412:16.438032:-58.235207
+WINDOWAREA:14.583419:-61.025699:14.603771:-60.988345
+PLUGIN:vSMR:Airport:TFFF

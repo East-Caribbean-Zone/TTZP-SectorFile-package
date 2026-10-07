@@ -1,0 +1,177 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:TFFR_TMA:
+ARTCC low boundary:TFFR_CTR:
+Fixes:ADVUR:name
+Fixes:ADVUR:symbol
+Fixes:AVSET:name
+Fixes:AVSET:symbol
+Fixes:BIMBO:name
+Fixes:BIMBO:symbol
+Fixes:BOSET:name
+Fixes:BOSET:symbol
+Fixes:CAPESTERRE:name
+Fixes:CAPESTERRE:symbol
+Fixes:DESTO:name
+Fixes:DESTO:symbol
+Fixes:DUNTA:name
+Fixes:DUNTA:symbol
+Fixes:EMOLA:name
+Fixes:EMOLA:symbol
+Fixes:GORET:name
+Fixes:GORET:symbol
+Fixes:ILET-FAJOU:name
+Fixes:ILET-FAJOU:symbol
+Fixes:ILET-GOSIER:name
+Fixes:ILET-GOSIER:symbol
+Fixes:ILURI:name
+Fixes:ILURI:symbol
+Fixes:JARRY:name
+Fixes:JARRY:symbol
+Fixes:KAROT:name
+Fixes:KAROT:symbol
+Fixes:KASKI:name
+Fixes:KASKI:symbol
+Fixes:KATIM:name
+Fixes:KATIM:symbol
+Fixes:LE-MOULE:name
+Fixes:LE-MOULE:symbol
+Fixes:LIDOS:name
+Fixes:LIDOS:symbol
+Fixes:MEDUS:name
+Fixes:MEDUS:symbol
+Fixes:MIVAS:name
+Fixes:MIVAS:symbol
+Fixes:PORT-LOUIS:name
+Fixes:PORT-LOUIS:symbol
+Fixes:SOUTH-EAST:name
+Fixes:SOUTH-EAST:symbol
+Fixes:TASAR:name
+Fixes:TASAR:symbol
+Fixes:TULEX:name
+Fixes:TULEX:symbol
+Fixes:VIEUX-BOURG:name
+Fixes:VIEUX-BOURG:symbol
+Fixes:VOLAB:name
+Fixes:VOLAB:symbol
+Free Text:TFFR TFFR\0A:freetext
+Free Text:TFFR TFFR\0B:freetext
+Free Text:TFFR TFFR\0C:freetext
+Free Text:TFFR TFFR\0D:freetext
+Free Text:TFFR TFFR\1:freetext
+Free Text:TFFR TFFR\10:freetext
+Free Text:TFFR TFFR\11:freetext
+Free Text:TFFR TFFR\12:freetext
+Free Text:TFFR TFFR\14:freetext
+Free Text:TFFR TFFR\15:freetext
+Free Text:TFFR TFFR\16:freetext
+Free Text:TFFR TFFR\17:freetext
+Free Text:TFFR TFFR\18:freetext
+Free Text:TFFR TFFR\19:freetext
+Free Text:TFFR TFFR\2:freetext
+Free Text:TFFR TFFR\20:freetext
+Free Text:TFFR TFFR\3:freetext
+Free Text:TFFR TFFR\4:freetext
+Free Text:TFFR TFFR\5:freetext
+Free Text:TFFR TFFR\6:freetext
+Free Text:TFFR TFFR\7:freetext
+Free Text:TFFR TFFR\8:freetext
+Free Text:TFFR TFFR\9:freetext
+Free Text:TFFR TFFR\B:freetext
+Free Text:TFFR TFFR\C:freetext
+Free Text:TFFR TFFR\D:freetext
+Free Text:TFFR TFFR\E:freetext
+Free Text:TFFR TFFR\F:freetext
+Free Text:TFFR TFFR\LIGHT AVIATION APRON:freetext
+Free Text:TFFR TFFR\M:freetext
+Free Text:TFFR TFFR\Q:freetext
+Free Text:TFFR TFFR\R:freetext
+Free Text:TFFR TFFR\S2:freetext
+Free Text:TFFR TFFR\S3:freetext
+Free Text:TFFR TFFR\S6:freetext
+Free Text:TFFR TFFR\S7:freetext
+Free Text:TFFR TFFR\S8:freetext
+Free Text:TFFR TFFR\S9:freetext
+Free Text:TFFR TFFR\W:freetext
+Free Text:TFFR TFFR\W1:freetext
+Free Text:TFFR TFFR\W2:freetext
+Geo:GEO:
+Geo:TFFR Groundlayout Pointe-a-Pitre:
+Geo:TTZP Landmark Natural Earth 10m Coastlines:
+Geo:TTZP Landmark Piarco Coastlines:
+Regions:TFFR Pointe-a-Pitre:polygon
+VORs:ANU:frequency
+VORs:ANU:name
+VORs:ANU:symbol
+VORs:BGI:frequency
+VORs:BGI:name
+VORs:BGI:symbol
+VORs:BNA:frequency
+VORs:BNA:name
+VORs:BNA:symbol
+VORs:BNE:frequency
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:CAI:frequency
+VORs:CAI:name
+VORs:CAI:symbol
+VORs:COY:frequency
+VORs:COY:name
+VORs:COY:symbol
+VORs:CUM:frequency
+VORs:CUM:name
+VORs:CUM:symbol
+VORs:DOM:frequency
+VORs:DOM:name
+VORs:DOM:symbol
+VORs:FOF:frequency
+VORs:FOF:name
+VORs:FOF:symbol
+VORs:GND:frequency
+VORs:GND:name
+VORs:GND:symbol
+VORs:MTA:frequency
+VORs:MTA:name
+VORs:MTA:symbol
+VORs:MUN:frequency
+VORs:MUN:name
+VORs:MUN:symbol
+VORs:PJM:frequency
+VORs:PJM:name
+VORs:PJM:symbol
+VORs:POS:frequency
+VORs:POS:name
+VORs:POS:symbol
+VORs:PPR:frequency
+VORs:PPR:name
+VORs:PPR:symbol
+VORs:SKB:frequency
+VORs:SKB:name
+VORs:SKB:symbol
+VORs:SOM:frequency
+VORs:SOM:name
+VORs:SOM:symbol
+VORs:STT:frequency
+VORs:STT:name
+VORs:STT:symbol
+VORs:SV:frequency
+VORs:SV:name
+VORs:SV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:349.30000
+TAGFAMILY:VATCAR
+WINDOWAREA:16.257947:-61.550066:16.278298:-61.512714
+PLUGIN:vSMR:Airport:TFFR

@@ -34,9 +34,6 @@ Settings	aircraft	\TTZP\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\TTZP\NavData\icao.txt
 Settings	airways	\TTZP\NavData\airway.txt
 ASRFastKeys	1	\TTZP\ASR\Adams Terminal.asr
-Plugins	Plugin0	\TTZP\Plugins\RDFPlugin.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin1	\TTZP\Plugins\DiscordEuroscope.dll
 Sounds	Sound0	\TTZP\Sounds\handoff_request.wav
 Sounds	Sound1	\TTZP\Sounds\handoff_accept.wav
 Sounds	Sound2	\TTZP\Sounds\conflict_alert.wav
@@ -58,3 +55,12 @@ Sounds	Sound17	\TTZP\Sounds\pointout.wav
 Sounds	Sound18	\TTZP\Sounds\startup.wav
 RecentFiles	Recent1	\TTZP\ASR\Adams Terminal.asr
 Settings	sector	\TTZP-TTZP_20251002185955-251001-0001.sct
+LastSession	atis_freq4	118000
+RecentFiles	Recent2	\TTZP\ASR\Adams Tower.asr
+RecentFiles	Recent3	\TTZP\ASR\Adams Terminal.asr
+ASRFastKeys	2	\TTZP\ASR\Adams Tower.asr
+Plugins	Plugin0	\TTZP\Plugins\vSMR\vSMR.dll
+Plugins	Plugin0Display0	SMR radar display
+Plugins	Plugin1	\TTZP\Plugins\VCH\VCH.dll
+Plugins	Plugin2	\TTZP\Plugins\RDFPlugin\RDFPlugin.dll
+Plugins	Plugin3	\TTZP\Plugins\DiscordEuroscope\DiscordEuroscope.dll

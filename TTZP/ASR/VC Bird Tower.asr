@@ -1,0 +1,176 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TTZP-TTZP_20251002185955-251001-0001.sct
+ARTCC boundary:TAPA_TMA:
+ARTCC low boundary:TAPA_CTR:
+Fixes:AMENA:name
+Fixes:AMENA:symbol
+Fixes:AMTTO:name
+Fixes:AMTTO:symbol
+Fixes:ANASU:name
+Fixes:ANASU:symbol
+Fixes:BEVAD:name
+Fixes:BEVAD:symbol
+Fixes:BIMBO:name
+Fixes:BIMBO:symbol
+Fixes:BOMET:name
+Fixes:BOMET:symbol
+Fixes:BOPAR:name
+Fixes:BOPAR:symbol
+Fixes:DUPET:name
+Fixes:DUPET:symbol
+Fixes:DUSUL:name
+Fixes:DUSUL:symbol
+Fixes:EBLUK:name
+Fixes:EBLUK:symbol
+Fixes:ELOPO:name
+Fixes:ELOPO:symbol
+Fixes:EMALI:name
+Fixes:EMALI:symbol
+Fixes:EMETA:name
+Fixes:EMETA:symbol
+Fixes:ENEMI:name
+Fixes:ENEMI:symbol
+Fixes:EPVOS:name
+Fixes:EPVOS:symbol
+Fixes:GABAR:name
+Fixes:GABAR:symbol
+Fixes:GABSA:name
+Fixes:GABSA:symbol
+Fixes:GADES:name
+Fixes:GADES:symbol
+Fixes:GORET:name
+Fixes:GORET:symbol
+Fixes:IKNIG:name
+Fixes:IKNIG:symbol
+Fixes:IMOTA:name
+Fixes:IMOTA:symbol
+Fixes:IMUSU:name
+Fixes:IMUSU:symbol
+Fixes:ITRUS:name
+Fixes:ITRUS:symbol
+Fixes:KASKI:name
+Fixes:KASKI:symbol
+Fixes:KEBOR:name
+Fixes:KEBOR:symbol
+Fixes:LAMKN:name
+Fixes:LAMKN:symbol
+Fixes:LIDOK:name
+Fixes:LIDOK:symbol
+Fixes:LOMDO:name
+Fixes:LOMDO:symbol
+Fixes:MEDUS:name
+Fixes:MEDUS:symbol
+Fixes:MODUX:name
+Fixes:MODUX:symbol
+Fixes:NAKAL:name
+Fixes:NAKAL:symbol
+Fixes:OMONO:name
+Fixes:OMONO:symbol
+Fixes:PURID:name
+Fixes:PURID:symbol
+Fixes:SATAR:name
+Fixes:SATAR:symbol
+Fixes:TABOX:name
+Fixes:TABOX:symbol
+Fixes:UDGEL:name
+Fixes:UDGEL:symbol
+Fixes:ZPATA:name
+Fixes:ZPATA:symbol
+Free Text:TAPA TAPA\1:freetext
+Free Text:TAPA TAPA\10:freetext
+Free Text:TAPA TAPA\11:freetext
+Free Text:TAPA TAPA\12:freetext
+Free Text:TAPA TAPA\14:freetext
+Free Text:TAPA TAPA\2:freetext
+Free Text:TAPA TAPA\3:freetext
+Free Text:TAPA TAPA\4:freetext
+Free Text:TAPA TAPA\5:freetext
+Free Text:TAPA TAPA\6:freetext
+Free Text:TAPA TAPA\7:freetext
+Free Text:TAPA TAPA\8:freetext
+Free Text:TAPA TAPA\9:freetext
+Free Text:TAPA TAPA\A:freetext
+Free Text:TAPA TAPA\B:freetext
+Free Text:TAPA TAPA\C:freetext
+Free Text:TAPA TAPA\D:freetext
+Free Text:TAPA TAPA\E:freetext
+Geo:GEO:
+Geo:TAPA Groundlayout V.C. Bird:
+Geo:TTZP Landmark Natural Earth 10m Coastlines:
+Geo:TTZP Landmark Piarco Coastlines:
+Regions:TAPA V.C. Bird Groundlayo:polygon
+VORs:ANU:frequency
+VORs:ANU:name
+VORs:ANU:symbol
+VORs:BGI:frequency
+VORs:BGI:name
+VORs:BGI:symbol
+VORs:BNA:frequency
+VORs:BNA:name
+VORs:BNA:symbol
+VORs:BNE:frequency
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:CAI:frequency
+VORs:CAI:name
+VORs:CAI:symbol
+VORs:COY:frequency
+VORs:COY:name
+VORs:COY:symbol
+VORs:CUM:frequency
+VORs:CUM:name
+VORs:CUM:symbol
+VORs:DOM:frequency
+VORs:DOM:name
+VORs:DOM:symbol
+VORs:FOF:frequency
+VORs:FOF:name
+VORs:FOF:symbol
+VORs:GND:frequency
+VORs:GND:name
+VORs:GND:symbol
+VORs:MTA:frequency
+VORs:MTA:name
+VORs:MTA:symbol
+VORs:MUN:frequency
+VORs:MUN:name
+VORs:MUN:symbol
+VORs:PJM:frequency
+VORs:PJM:name
+VORs:PJM:symbol
+VORs:POS:frequency
+VORs:POS:name
+VORs:POS:symbol
+VORs:PPR:frequency
+VORs:PPR:name
+VORs:PPR:symbol
+VORs:SKB:frequency
+VORs:SKB:name
+VORs:SKB:symbol
+VORs:SOM:frequency
+VORs:SOM:name
+VORs:SOM:symbol
+VORs:STT:frequency
+VORs:STT:name
+VORs:STT:symbol
+VORs:SV:frequency
+VORs:SV:name
+VORs:SV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:31.00000
+TAGFAMILY:VATCAR
+WINDOWAREA:17.127678:-61.810609:17.148030:-61.773255
+PLUGIN:vSMR:Airport:TAPA

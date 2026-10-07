@@ -1,0 +1,45 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TTZP-TTZP_20251002185955-251001-0001.sct
+ARTCC boundary:TFFF_TMA:
+ARTCC boundary:TGPY_TMA:
+ARTCC boundary:TVSA_TMA:
+ARTCC high boundary:TTZP_FIR:
+Geo:TTZP Landmark Natural Earth 10m Coastlines:
+Geo:TTZP Landmark Piarco Coastlines:
+VORs:ANU:symbol
+VORs:BGI:symbol
+VORs:BNA:symbol
+VORs:BNE:symbol
+VORs:CAI:symbol
+VORs:COY:symbol
+VORs:CUM:symbol
+VORs:DOM:symbol
+VORs:FOF:symbol
+VORs:GND:symbol
+VORs:MTA:symbol
+VORs:MUN:symbol
+VORs:PJM:symbol
+VORs:POS:symbol
+VORs:PPR:symbol
+VORs:SKB:symbol
+VORs:SOM:symbol
+VORs:STT:symbol
+VORs:SV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:329.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:12.678792:-61.389353:12.724132:-61.306137
+PLUGIN:vSMR:Airport:TVSC

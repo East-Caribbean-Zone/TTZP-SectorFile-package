@@ -86,21 +86,6 @@ Fixes:ZPATA:symbol
 Geo:GEO:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
-Runways:TAPA 07-25:centerline
-Runways:TAPA 07-25:extended centerline 1
-Runways:TAPA 07-25:extended centerline 1 left base
-Runways:TAPA 07-25:extended centerline 1 left ticks
-Runways:TAPA 07-25:extended centerline 1 left vectoring
-Runways:TAPA 07-25:extended centerline 1 right base
-Runways:TAPA 07-25:extended centerline 1 right ticks
-Runways:TAPA 07-25:extended centerline 1 right vectoring
-Runways:TAPA 07-25:extended centerline 2
-Runways:TAPA 07-25:extended centerline 2 left base
-Runways:TAPA 07-25:extended centerline 2 left ticks
-Runways:TAPA 07-25:extended centerline 2 left vectoring
-Runways:TAPA 07-25:extended centerline 2 right base
-Runways:TAPA 07-25:extended centerline 2 right ticks
-Runways:TAPA 07-25:extended centerline 2 right vectoring
 Runways:TKPK 07-25:centerline
 Runways:TKPK 07-25:extended centerline 1
 Runways:TKPK 07-25:extended centerline 1 left base
@@ -195,10 +180,10 @@ ABOVE:0
 LEADER:-2
 SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:1
 DisplayRotation:0.00000
 TAGFAMILY:VATCAR
-WINDOWAREA:16.407766:-63.541121:18.172967:-60.301306
+WINDOWAREA:16.756402:-63.637854:17.660186:-61.979068
