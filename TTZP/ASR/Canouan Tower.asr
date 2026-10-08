@@ -9,6 +9,8 @@ ARTCC boundary:TVSA_TMA:
 ARTCC high boundary:TTZP_FIR:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
+Geo:TVSC Groundlayout Canouan:
+Regions:TVSC Canouan:polygon
 VORs:ANU:symbol
 VORs:BGI:symbol
 VORs:BNA:symbol
@@ -39,7 +41,7 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:1
 DISABLEZOOMING:1
-DisplayRotation:329.00000
+DisplayRotation:328.40000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:12.678792:-61.389353:12.724132:-61.306137
+WINDOWAREA:12.696134:-61.353676:12.705643:-61.336224
 PLUGIN:vSMR:Airport:TVSC
