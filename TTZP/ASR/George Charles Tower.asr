@@ -52,7 +52,7 @@ Geo:GEO:
 Geo:TLPC Groundlayout George Charles:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
-Regions:TLPC TLPC:polygon
+Regions:TLPC George Charles:polygon
 VORs:ANU:frequency
 VORs:ANU:name
 VORs:ANU:symbol
@@ -123,5 +123,5 @@ DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:15.00000
 TAGFAMILY:VATCAR
-WINDOWAREA:14.014252:-61.005566:14.027430:-60.981380
+WINDOWAREA:14.015520:-61.002797:14.026062:-60.983448
 PLUGIN:vSMR:Airport:TLPC
