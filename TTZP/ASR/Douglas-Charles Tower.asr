@@ -11,8 +11,7 @@ Geo:GEO:
 Geo:TDPD Groundlayout Douglas Charles:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
-Regions:TDPD Apron:polygon
-Regions:TDPD Taxiways:polygon
+Regions:TDPD Douglas Charles:polygon
 VORs:ANU:frequency
 VORs:ANU:name
 VORs:ANU:symbol
@@ -83,6 +82,6 @@ DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:19.80000
 TAGFAMILY:VATCAR
-WINDOWAREA:15.541082:-61.312826:15.553582:-61.289883
+WINDOWAREA:15.542188:-61.310754:15.552189:-61.292400
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Airport:TDPD
