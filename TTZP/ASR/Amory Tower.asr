@@ -82,8 +82,10 @@ Fixes:ZPATA:name
 Fixes:ZPATA:symbol
 Geo:GEO:
 Geo:TAPA Groundlayout V.C. Bird:
+Geo:TKPN Groundlayout Vance Winkworth Amory:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
+Regions:TKPN Vance Winkworth Amory:polygon
 VORs:ANU:frequency
 VORs:ANU:name
 VORs:ANU:symbol
@@ -150,9 +152,9 @@ SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
-DISABLEPANNING:0
-DISABLEZOOMING:0
+DISABLEPANNING:1
+DISABLEZOOMING:1
 DisplayRotation:0.00000
 TAGFAMILY:VATCAR
-WINDOWAREA:17.182787:-62.634794:17.232474:-62.543599
+WINDOWAREA:17.201744:-62.597775:17.210080:-62.582475
 PLUGIN:vSMR:Airport:TKPN
