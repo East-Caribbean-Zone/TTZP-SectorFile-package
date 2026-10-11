@@ -80,6 +80,8 @@ Fixes:UDGEL:name
 Fixes:UDGEL:symbol
 Fixes:ZPATA:name
 Fixes:ZPATA:symbol
+Free Text:TKPN TKPN\A:freetext
+Free Text:TKPN TKPN\B:freetext
 Geo:GEO:
 Geo:TAPA Groundlayout V.C. Bird:
 Geo:TKPN Groundlayout Vance Winkworth Amory:
