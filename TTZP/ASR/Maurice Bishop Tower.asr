@@ -7,8 +7,10 @@ ARTCC boundary:TFFF_TMA:
 ARTCC boundary:TGPY_TMA:
 ARTCC boundary:TVSA_TMA:
 ARTCC high boundary:TTZP_FIR:
+Geo:TGPY Groundlayout Maurice Bishop:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
+Regions:TGPY Maurice Bishop:polygon
 VORs:ANU:symbol
 VORs:BGI:symbol
 VORs:BNA:symbol
@@ -41,4 +43,4 @@ DISABLEPANNING:1
 DISABLEZOOMING:1
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:11.991799:-61.812919:12.020816:-61.759661
+WINDOWAREA:11.997977:-61.799640:12.012834:-61.772372

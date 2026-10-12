@@ -51,7 +51,6 @@ Runways:TGPY 10-28:extended centerline 2 left vectoring
 Runways:TGPY 10-28:extended centerline 2 right base
 Runways:TGPY 10-28:extended centerline 2 right ticks
 Runways:TGPY 10-28:extended centerline 2 right vectoring
-Runways:TGPY 10-28:name
 Runways:TGPZ 09-27:centerline
 Runways:TGPZ 09-27:extended centerline 1
 Runways:TGPZ 09-27:extended centerline 1 left base
@@ -67,7 +66,6 @@ Runways:TGPZ 09-27:extended centerline 2 left vectoring
 Runways:TGPZ 09-27:extended centerline 2 right base
 Runways:TGPZ 09-27:extended centerline 2 right ticks
 Runways:TGPZ 09-27:extended centerline 2 right vectoring
-Runways:TGPZ 09-27:name
 SHOWC:1
 SHOWSB:0
 BELOW:0
