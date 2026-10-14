@@ -6,8 +6,10 @@ SECTORTITLE:TTZP-TTZP_20251002185955-251001-0001.sct
 ARTCC boundary:TTPP_APP:
 ARTCC low boundary:TTCP_ATZ:
 ARTCC low boundary:TTPP_CTR:
+Geo:TTCP Groundlayout Robinson:
 Geo:TTZP Landmark Natural Earth 10m Coastlines:
 Geo:TTZP Landmark Piarco Coastlines:
+Regions:TTCP Robinson:polygon
 VORs:ANU:symbol
 VORs:BGI:symbol
 VORs:BNA:symbol
@@ -38,7 +40,7 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:1
 DISABLEZOOMING:1
-DisplayRotation:0.00000
+DisplayRotation:355.80000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:11.063616:-60.993670:11.236568:-60.676236
+WINDOWAREA:11.143548:-60.845690:11.158405:-60.818422
 PLUGIN:vSMR:Airport:TTCP
